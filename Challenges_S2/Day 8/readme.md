@@ -77,21 +77,21 @@ By completing this challenge, I strengthened my understanding of:
 * AMI: Red Hat Enterprise Linux 
 * Instance Type: t3.micro
 * Key Pair: `myfirst22.pem`
-![Redhat](./Proof-Of-work/RHEL.png)
+![Redhat](./Proof-of-work/RHEL.png)
 
     #### **2. ubuntu**
 
 * AMI: Ubuntu
 * Instance Type: t3.micro
 * Key Pair: `myfirst22.pem`
-![Ubuntu](./Proof-Of-work/Ubuntu.png)
+![Ubuntu](./Proof-of-work/Ubuntu.png)
 
 #### **3. Amazon Linux**
 
 * AMI: Amazon Linux
 * Instance Type: t3.micro
 * Key Pair: `myfirst22.pem`
-![Ubuntu](./Proof-Of-work/Amazon%20Linux.png)
+![Ubuntu](./Proof-of-work/Amazon%20Linux.png)
 
 
 
